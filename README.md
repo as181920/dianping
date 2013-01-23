@@ -1,6 +1,6 @@
 # Dianping
 
-TODO: Write a gem description
+点评网接口的封装
 
 ## Installation
 
@@ -22,6 +22,7 @@ TODO: Write usage instructions here
 
 ## Contributing
 
+0. 欢迎大家提建议和修改
 1. Fork it
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)

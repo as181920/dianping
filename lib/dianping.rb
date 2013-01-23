@@ -1,5 +1,7 @@
 require "dianping/version"
 
-module Dianping
-  # Your code goes here...
+module DianPing
+  def self.hi
+    "hello world"
+  end
 end
