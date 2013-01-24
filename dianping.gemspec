@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = Dianping::VERSION
   gem.authors       = ["Andersen Fan"]
   gem.email         = ["as181920@hotmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = %q{dianping.com api wrapper}
+  gem.summary       = %q{dianping.com api wrapper}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
