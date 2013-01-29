@@ -1,4 +1,5 @@
 require "dianping/version"
+require "dianping/client"
 
 module DianPing
   def self.hi
