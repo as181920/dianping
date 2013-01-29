@@ -2,7 +2,7 @@
 require 'minitest/autorun'
 require 'dianping'
 
-class DianPingTest < MiniTest::Unit::TestCase
+class TestDianPing < MiniTest::Unit::TestCase
   def test_hello
     assert_equal "hello world", DianPing.hi
   end
