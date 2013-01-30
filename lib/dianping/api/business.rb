@@ -8,6 +8,7 @@ module DianPing
       include DianPing::API::Auth
 
       def find_businesses
+        #HTTParty.get 
         []
       end
     end
@@ -15,3 +16,4 @@ module DianPing
 end
 
 
+#response = HTTParty.get "http://api.dianping.com/v1/business/find_businesses?city=%E4%B8%8A%E6%B5%B7&appkey=#{key}&sign=#{sign}"
