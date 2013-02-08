@@ -1,5 +1,8 @@
 == TODO
 覆盖各接口对应功能
 
+== 0.0.2
+实现find_bunisesses的接口
+
 == 0.0.1
 * init

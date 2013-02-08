@@ -1,6 +1,7 @@
 # Dianping
 
 点评网接口的封装
+仅覆盖了find_businesses的接口，实在没有时间写。基本结构都有了，有时间的朋友可以继续补充其余接口功能。
 
 ## Installation
 
